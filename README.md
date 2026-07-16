@@ -1,4 +1,4 @@
-# Gesture Volume Controller (pyautogui version)
+# Gesture Volume Controller 
 
 Control your system's volume using hand gestures via webcam — pinch your thumb and index finger closer together to lower volume, spread them apart to raise it. Uses OS media keys instead of a platform audio API, so there's no `pycaw`/`comtypes` dependency headache.
 
